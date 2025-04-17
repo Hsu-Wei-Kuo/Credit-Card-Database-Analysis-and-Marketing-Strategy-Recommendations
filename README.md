@@ -1,3 +1,3 @@
 # Credit-Card-Database-Analysis-and-Marketing-Strategy-Recommendations
-111-2「大數據行銷」的期末報告(大三時所修的課，放此以記錄)
+111-2「大數據行銷」的期末報告(大三時所修的課，放此以記錄)  
 剩下有空時補...
